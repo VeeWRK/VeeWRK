@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm V 👋</h1>
+<h1 align="center">Hi, I'm Vee 👋</h1>
 <p align="center">
   <em>Digital Designer, Developer, and Creative Innovator</em>
 </p>
